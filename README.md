@@ -1,4 +1,4 @@
-<img width="1200" height="628" alt="1_WWLY-67g1exa2kRiraVvew" src="https://github.com/user-attachments/assets/be0836c3-c3f5-4e2e-858f-813f30a9b64b" />
+<img width="1200" height="561" alt="1_WWLY-67g1exa2kRiraVvew" src="https://github.com/user-attachments/assets/ce3b5bc0-241a-4018-955c-d24ba4c1e17b" />
 
 # Python Calculator
 
