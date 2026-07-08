@@ -29,15 +29,16 @@ A simple calculator made with Python that performs basic arithmetic operations.
 To run the calculator locally, follow these steps:
 
 1. Clone the repository:
+   
 git clone https://github.com/maryam-hamid-sa/calculator-python.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 cd calculator-python
 
-3. Run the calculator:
+4. Run the calculator:
 python calculator-python.py
 
-4. Follow the on-screen prompts to enter numbers and choose an operator.
+5. Follow the on-screen prompts to enter numbers and choose an operator.
 
 ## Example
 Enter first number: 26
