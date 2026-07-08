@@ -30,7 +30,7 @@ To run the calculator locally, follow these steps:
 
 1. Clone the repository:
    
-git clone https://github.com/maryam-hamid-sa/calculator-python.git
+   git clone https://github.com/maryam-hamid-sa/calculator-python.git
 
 3. Navigate to the project directory:
 cd calculator-python
