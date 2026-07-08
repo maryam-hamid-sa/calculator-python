@@ -24,8 +24,11 @@ A simple calculator made with Python that performs basic arithmetic operations.
 
 ## Example
 Enter first number: 26
+
 Choose operator (+, -, *, /): -
+
 Enter second number: 29
+
 Result: -3.0
 
 ## Author
