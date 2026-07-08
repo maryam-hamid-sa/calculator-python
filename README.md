@@ -33,12 +33,14 @@ To run the calculator locally, follow these steps:
    git clone https://github.com/maryam-hamid-sa/calculator-python.git
 
 3. Navigate to the project directory:
-cd calculator-python
+   
+   cd calculator-python
 
-4. Run the calculator:
-python calculator-python.py
+5. Run the calculator:
 
-5. Follow the on-screen prompts to enter numbers and choose an operator.
+   python calculator-python.py
+
+7. Follow the on-screen prompts to enter numbers and choose an operator.
 
 ## Example
 Enter first number: 26
