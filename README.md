@@ -1,9 +1,8 @@
+<img width="1200" height="628" alt="1_WWLY-67g1exa2kRiraVvew" src="https://github.com/user-attachments/assets/be0836c3-c3f5-4e2e-858f-813f30a9b64b" />
+
 # Python Calculator
 
 A simple calculator made with Python that performs basic arithmetic operations.
-<img width="597" height="335" alt="images (1)" src="https://github.com/user-attachments/assets/47040f65-f82e-4bca-b228-c71d53ff83bd" />
-
-
 
 ## Features
 
