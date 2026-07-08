@@ -1,6 +1,9 @@
 # Python Calculator
 
 A simple calculator made with Python that performs basic arithmetic operations.
+<img width="597" height="335" alt="images (1)" src="https://github.com/user-attachments/assets/47040f65-f82e-4bca-b228-c71d53ff83bd" />
+
+
 
 ## Features
 
