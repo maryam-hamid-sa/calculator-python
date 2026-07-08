@@ -25,16 +25,17 @@ A simple calculator made with Python that performs basic arithmetic operations.
 4. Enter two numbers and choose an operator when prompted.
 
 ## Setup and Installation
+
 To run the calculator locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/ansa-aman00/Calculator-using-python.git
+git clone https://github.com/maryam-hamid-sa/calculator-python.git
 
 2. Navigate to the project directory:
-cd Calculator-using-python
+cd calculator-python
 
 3. Run the calculator:
-calculator-python.py
+python calculator-python.py
 
 4. Follow the on-screen prompts to enter numbers and choose an operator.
 
